@@ -21,6 +21,7 @@ Performing a series of measurements, tests and attempts were made to combine man
 
 The device using the serial port sent data to the computer, where the Matlab script was responsible for processing and saving them in the appropriate format. 
 ![Data Struct](./img/data_struct_point_cloud.png)
+
 Data in the form of a point cloud were pre-filtered, and then a series of studies were performed using the ICP algorithm. The tests were carried out in the living room and the Physics Building of the Warsaw University of Technology. The latter brought interesting results. 15 measurements were combined to obtain a full image of the 25m x 23m x 10m auditorium. The effects of the work are presented in the [Screenshots](#screenshots) section.
 
 ## Technologies
@@ -31,8 +32,7 @@ Data in the form of a point cloud were pre-filtered, and then a series of studie
 
 ## Screenshots
 
-![Skan top](./img/skan_top.png)
-![Auditorium 1](./img/auditorium1.PNG)
+![Skan top](./img/skan_top.png) ![Auditorium 1](./img/auditorium1.PNG)
 ![Auditorium 2](./img/auditorium2.png)
 ![Auditorium 3](./img/auditorium3.png)
 ![Auditorium 4](./img/auditorium4.png)
