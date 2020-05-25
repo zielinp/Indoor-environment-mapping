@@ -13,8 +13,8 @@
 ## General info
 Research project, whose aim was to construct and make a 3D scanner, allowing to make room maps in the form of a point cloud. 
 The project was implemented based on the Arduino microcontroller, rotary lidar. 
-![Lidar1](./img/lidar1.jpeg)
-![Lidar2](./img/lidar2.jpeg)
+![Lidar1](./img/lidar1.jpg)
+![Lidar2](./img/lidar2.jpg)
 
 Performing a series of measurements, tests and attempts were made to combine many scans into one complete map.
 
