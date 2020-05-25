@@ -13,6 +13,7 @@
 ## General info
 Research project, whose aim was to construct and make a 3D scanner, allowing to make room maps in the form of a point cloud. 
 The project was implemented based on the Arduino microcontroller, rotary lidar. 
+
 ![Lidar1](./img/lidar1.jpg)
 ![Lidar2](./img/lidar2.jpg)
 
@@ -27,7 +28,13 @@ The device using the serial port sent data to the computer, where the Matlab scr
 * Arduino (Arduino MEGA)
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Data Struct](./img/data_struct_point_cloud.png)
+![Skan top](./img/skan top.png)
+![Auditorium 1](./img/auditorium1.png)
+![Auditorium 2](./img/auditorium2.png)
+![Auditorium 3](./img/auditorium3.png)
+![Auditorium 4](./img/auditorium4.png)
+![Auditorium Real](./img/auditorium_real.png)
 
 ## Features
 * Maximum number of points in the single scan point cloud: around 97,000
