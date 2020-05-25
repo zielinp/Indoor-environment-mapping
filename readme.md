@@ -39,7 +39,7 @@ The device using the serial port sent data to the computer, where the Matlab scr
 ## Features
 * Maximum number of points in the single scan point cloud: around 97,000
 * Measurement time: 2-4 min (depending on resolution)
-* Full map of the room 
+* Full map of the room
 
 ## Status
 Project is: _finished_
