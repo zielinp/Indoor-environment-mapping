@@ -30,11 +30,11 @@ The device using the serial port sent data to the computer, where the Matlab scr
 ## Screenshots
 ![Data Struct](./img/data_struct_point_cloud.png)
 ![Skan top](./img/skan_top.png)
-![Auditorium 1](./img/auditorium1.png)
+![Auditorium 1](./img/auditorium1.PNG)
 ![Auditorium 2](./img/auditorium2.png)
 ![Auditorium 3](./img/auditorium3.png)
 ![Auditorium 4](./img/auditorium4.png)
-![Auditorium Real](./img/auditorium_real.png)
+![Auditorium Real](./img/auditorium_real.PNG)
 
 ## Features
 * Maximum number of points in the single scan point cloud: around 97,000
