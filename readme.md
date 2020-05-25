@@ -33,9 +33,9 @@ Data in the form of a point cloud were pre-filtered, and then a series of studie
 ## Screenshots
 
 ![Skan top](./img/skan_top.png) ![Auditorium 1](./img/auditorium1.PNG)
-![Auditorium 2](./img/auditorium2.png)
 ![Auditorium 3](./img/auditorium3.png)
 ![Auditorium 4](./img/auditorium4.png)
+![Auditorium 2](./img/auditorium2.png)
 ![Auditorium Real](./img/auditorium_real.PNG)
 
 ## Features
